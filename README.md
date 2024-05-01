@@ -1,1 +1,1 @@
-Hdkfkf
+This project entails sentiment analysis on YouTube comments from the Amber Heard and Johnny Depp trial, spanning 24 trial days. Despite missing data for 4 days, I explored various models such as VADER, Huggingface Pipline, and Roberta, marking my initial foray into Natural Language Processing (NLP).
